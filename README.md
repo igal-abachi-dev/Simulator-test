@@ -76,7 +76,7 @@ dotnet run -- consciousness
 Gives you a better sandbox for finding patterns that connect to real observables: SIGW frequency spectra, autocatalytic growth exponents, and CSL exclusion maps.
 
 
-## v8
+## v8 (inside v8.6 folder)
 Simulation Engine
 + Parameter Sweep Runner
 + Module System
