@@ -1,0 +1,10 @@
+{
+  "parameters": {
+    "observer": {
+      "trials": 100000,
+      "bornBias": 0.0,
+      "contextualCoupling": 0.0,
+      "confidenceSigma": 5.0
+    }
+  }
+}

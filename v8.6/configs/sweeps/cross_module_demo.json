@@ -1,0 +1,20 @@
+{
+  "strategy": "latin-hypercube",
+  "cases": 48,
+  "seed": 24680,
+  "parameters": {
+    "usrDepth": { "min": 1e-8, "max": 2e-5, "log": true },
+    "usrWidth": { "min": 1.0, "max": 3.5 },
+    "catalysis": { "min": 0.004, "max": 0.020 },
+    "templateBias": { "min": 0.0, "max": 0.8 },
+    "lambda": { "min": 1e-18, "max": 1e-10, "log": true },
+    "rC": { "min": 1e-9, "max": 1e-6, "log": true },
+    "w0": { "min": -1.25, "max": -0.75 },
+    "wa": { "min": -0.8, "max": 0.8 },
+    "islandStrength": { "min": 0.0, "max": 1.0 },
+    "observer.bornBias": { "min": -0.001, "max": 0.001 },
+    "observer.contextualCoupling": { "min": 0.0, "max": 1.0 },
+    "observer.trials": [100000],
+    "observer.confidenceSigma": [5.0]
+  }
+}

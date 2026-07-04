@@ -1,0 +1,8 @@
+{
+  "seed": 12345,
+  "chemistry.dissociationEnergyEV": 4.5,
+  "chemistry.equilibriumDistanceA": 1.10,
+  "chemistry.morseAInvA": 1.7,
+  "chemistry.ionicOffsetEV": 8.5,
+  "chemistry.couplingEV": 0.75
+}

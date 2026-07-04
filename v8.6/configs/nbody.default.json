@@ -1,0 +1,9 @@
+{
+  "seed": 12345,
+  "nbody.particles": 2500,
+  "nbody.steps": 100,
+  "nbody.initialAmplitude": 0.075,
+  "nbody.baryonFraction": 0.16,
+  "nbody.theta": 0.65,
+  "nbody.baryonPressure": 0.015
+}

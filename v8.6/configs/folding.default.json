@@ -1,0 +1,8 @@
+{
+  "seed": 12345,
+  "folding.length": 28,
+  "folding.steps": 3500,
+  "folding.temperature": 0.45,
+  "folding.hydrophobicFraction": 0.42,
+  "folding.hydrophobicAttraction": 1.25
+}

@@ -1,0 +1,8 @@
+{
+  "parameters": {
+    "initialMassPlanck": 100000000,
+    "radiationSteps": 1000,
+    "islandStrength": 1.0,
+    "noiseLevel": 0.0
+  }
+}

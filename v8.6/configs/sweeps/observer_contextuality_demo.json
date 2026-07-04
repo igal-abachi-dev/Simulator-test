@@ -1,0 +1,11 @@
+{
+  "strategy": "latin-hypercube",
+  "cases": 32,
+  "seed": 98765,
+  "parameters": {
+    "observer.trials": [100000],
+    "observer.bornBias": { "min": -0.002, "max": 0.002 },
+    "observer.contextualCoupling": { "min": 0.0, "max": 1.0 },
+    "observer.confidenceSigma": [5.0]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "cases": 36,
+  "replicates": 3,
+  "seed": 4242,
+  "strategy": "latin-hypercube",
+  "notes": "v8.6 causal bridge: inflation parameters are sampled; downstream modules receive propagated handoff parameters where possible. Do not independently sample nbody.initialAmplitude in this bridge sweep.",
+  "parameters": {
+    "inflation.usrDepth": { "min": 0.0000002, "max": 0.00001, "log": true },
+    "inflation.usrWidth": { "min": 1.2, "max": 3.6, "log": false },
+    "life.catalysis": { "min": 0.004, "max": 0.018, "log": false },
+    "folding.hydrophobicFraction": { "min": 0.25, "max": 0.65, "log": false },
+    "folding.temperature": { "min": 0.25, "max": 0.90, "log": false },
+    "chemistry.couplingEV": { "min": 0.2, "max": 2.2, "log": false },
+    "chemistry.ionicOffsetEV": { "min": 4.0, "max": 14.0, "log": false },
+    "nbody.baryonPressure": { "min": 0.0, "max": 0.04, "log": false }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parameters": {
+    "lambda": 1e-16,
+    "rC": 1e-7,
+    "particleN": 1e8,
+    "separation": 1e-7,
+    "trials": 100000,
+    "bornBias": 0.0
+  }
+}

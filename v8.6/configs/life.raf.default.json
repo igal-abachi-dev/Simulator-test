@@ -1,0 +1,8 @@
+{
+  "parameters": {
+    "maxLen": 5,
+    "catalysis": 0.010,
+    "templateBias": 0.35,
+    "seed": 12345
+  }
+}

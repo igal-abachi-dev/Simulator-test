@@ -1,0 +1,9 @@
+{
+  "parameters": {
+    "omegaM": 0.315,
+    "H0": 67.4,
+    "w0": -1.0,
+    "wa": 0.0,
+    "alphaVariation": 0.0
+  }
+}

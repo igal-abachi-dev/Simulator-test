@@ -1,0 +1,9 @@
+{
+  "parameters": {
+    "usrDepth": 2.5e-7,
+    "usrStart": 25.0,
+    "usrWidth": 2.3,
+    "usrEdge": 0.15,
+    "epsPlateau": 1.0e-3
+  }
+}
